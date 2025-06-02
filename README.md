@@ -26,6 +26,20 @@ na plataforma [LeetCode](https://leetcode.com).
 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)                                                  | [João Marcos](https://github.com/JJOAOMARCOSS)    |
 | [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)                                                                         | [João Marcos](https://github.com/JJOAOMARCOSS)    |
 
+## Screenshots
+### [871. Minimum Number of Refueling Stops 🚛⛽](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
+![871](/assets/871.png)
+![Resposta](/assets/871-res.png)
+
+###[847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)
+![847](/assets/847.png)
+![847](/assets/847-res.png)
+
+### [1049. Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)
+![1049](/assets/1049.png)
+![1049](/assets/1049-res.png)
+
+
 ## Vídeo
 
 Para acessar a explicação dos exercícios, basta acessar o seguinte link disponível no YouTube:  
