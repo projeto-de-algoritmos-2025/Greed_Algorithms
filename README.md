@@ -31,7 +31,7 @@ na plataforma [LeetCode](https://leetcode.com).
 ![871](/assets/871.png)
 ![Resposta](/assets/871-res.png)
 
-###[847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)
+### [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)
 ![847](/assets/847.png)
 ![847](/assets/847-res.png)
 
@@ -43,4 +43,10 @@ na plataforma [LeetCode](https://leetcode.com).
 ## Vídeo
 
 Para acessar a explicação dos exercícios, basta acessar o seguinte link disponível no YouTube:  
-_(adicione o link aqui quando disponível)_
+
+
+## Linguagens
+Python
+
+## Uso
+Rode os códigos no site do [LeetCode](https://leetcode.com/), em cada um dos problemas.
