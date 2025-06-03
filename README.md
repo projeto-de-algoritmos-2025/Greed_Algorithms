@@ -22,22 +22,28 @@ na plataforma [LeetCode](https://leetcode.com).
 
 | Exercício                                                                                                                                           | Aluno                                   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
-| [Minimum Number of Refueling Stops 🚛⛽](https://leetcode.com/problems/minimum-number-of-refueling-stops/)                                            | [João Marcos](https://github.com/JJOAOMARCOSS)    |
-| [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)                                                  | [João Marcos](https://github.com/JJOAOMARCOSS)    |
-| [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)                                                                         | [João Marcos](https://github.com/JJOAOMARCOSS)    |
+|**Difícil**    [Minimum Number of Refueling Stops 🚛⛽](https://leetcode.com/problems/minimum-number-of-refueling-stops/)                                            | [João Marcos](https://github.com/JJOAOMARCOSS)    |
+|**Difícil**    [Course Schedule III 📝](https://leetcode.com/problems/course-schedule-iii/description/?envType=problem-list-v2&envId=greedy)                                            | [Christopher Escobar](https://github.com/wChrstphr)    |                                            
+|**Difícil**    [Minimum Money Required Before Transactions 💸](https://leetcode.com/problems/minimum-money-required-before-transactions/description/?envType=problem-list-v2&envId=greedy)                                            | [Christopher Escobar](https://github.com/wChrstphr)    |
+| **Médio**   [Last Stone Weight II ⚖️](https://leetcode.com/problems/last-stone-weight-ii/)                                                                         | [João Marcos](https://github.com/JJOAOMARCOSS)    |
 
 ## Screenshots
 ### [871. Minimum Number of Refueling Stops 🚛⛽](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
 ![871](/assets/871.png)
 ![Resposta](/assets/871-res.png)
 
-### [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)
-![847](/assets/847.png)
-![847](/assets/847-res.png)
-
-### [1049. Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)
+### [1049. Last Stone Weight II ⚖️](https://leetcode.com/problems/last-stone-weight-ii/)
 ![1049](/assets/1049.png)
 ![1049](/assets/1049-res.png)
+
+### [630. Course Schedule III 📝](https://leetcode.com/problems/course-schedule-iii/description/?envType=problem-list-v2&envId=greedy)
+![639](/assets/630.png)
+![630](/assets/630-res.png)
+
+
+### [2412. Minimum Money Required Before Transactions 💸](https://leetcode.com/problems/minimum-money-required-before-transactions/description/?envType=problem-list-v2&envId=greedy)
+![2412](/assets/2412.png)
+![2412](/assets/2412-res.png)
 
 
 ## Vídeo
